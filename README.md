@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Utkarsh Jha
+#I'm Utkarsh Jha
 
 Backend & full-stack engineer, CS 2025. Based in India.
 
