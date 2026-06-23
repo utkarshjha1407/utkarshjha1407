@@ -1,3 +1,4 @@
+## Hi there 👋
 # Utkarsh Jha
 
 Backend & full-stack engineer, CS 2025. Based in India.
@@ -24,7 +25,7 @@ Python · C++ · TypeScript · FastAPI · Node · Next.js · React · PostgreSQL
 
 Open to developer roles and freelance work.
 
-[utkarshjha.dev](https://utkarshjha.dev) · [hello.utkarshjha@gmail.com](mailto:hello.utkarshjha@gmail.com) · [LinkedIn](https://linkedin.com/in/utkarsh-jha-372671291)## Hi there 👋
+[utkarshjha.dev](https://utkarshjha.dev) · [hello.utkarshjha@gmail.com](mailto:hello.utkarshjha@gmail.com) · [LinkedIn](https://linkedin.com/in/utkarsh-jha-372671291)
 
 <!--
 **utkarshjha1407/utkarshjha1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
