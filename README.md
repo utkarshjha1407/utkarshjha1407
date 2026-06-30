@@ -3,7 +3,7 @@
 
 Backend & full-stack engineer, CS 2025. Based in India.
 
-I work mostly on the server side — APIs, data pipelines, and the parts that decide whether something holds up once real people use it. I'm comfortable in C++, live on Linux, and care about how a system actually runs, not just whether it ships.
+I work mostly on the server side APIs, data pipelines, and the parts that decide whether something holds up once real people use it. I'm comfortable in C++,python, Linux, and care about how a system actually runs.
 
 ### Live projects
 
@@ -19,7 +19,7 @@ I work mostly on the server side — APIs, data pipelines, and the parts that de
 
 ### Tools
 
-Python · C++ · TypeScript · FastAPI · Node · Next.js · React · PostgreSQL / Supabase · Linux · Docker · scikit-learn
+Python · C++ · TypeScript · FastAPI · Node · Next.js · React · PostgreSQL  · Linux · Docker · scikit-learn
 
 ---
 
