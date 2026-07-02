@@ -41,90 +41,89 @@ Featured Builds
 
 🧠 Knowledge OS
 
-«Research isn't papers.
-It's conversations across decades.»
+«Research isn't papers. It's conversations across decades.»
 
-A semantic knowledge graph built from 14,400 OpenAlex papers and ~379k citation links.
+A semantic knowledge graph built from 14,400 OpenAlex papers and ~379k citation relationships.
 
-No backend.
+- No backend
+- No API keys
+- Runs almost free
 
-No API keys.
+Tech: Python • React • Information Retrieval
 
-Runs almost free.
+🌐 Live: https://evolve-snowy.vercel.app/
 
-Python • React • Information Retrieval
-
-🌐 Live
-
-💻 Source
+💻 Source: https://github.com/utkarshjha1407/mluemind
 
 ---
 
 🎤 InterviewAI
 
-Your GitHub becomes your interviewer.
+«Your GitHub becomes your interviewer.»
 
-FastAPI backend that generates interview questions from repositories and scores responses with detailed feedback.
+FastAPI backend that generates interview questions from repositories and scores responses with detailed written feedback.
 
-FastAPI • PostgreSQL • JWT • Docker
+Tech: FastAPI • PostgreSQL • JWT • Docker • Groq
+
+🌐 Live: https://reinterviewai.vercel.app/
+
+💻 Source: https://github.com/utkarshjha1407/v1
 
 ---
 
 🚗 GaadiGuru
 
-A production-ready service platform built from a Figma file to deployment.
+«From a Figma prototype to a production application.»
 
-Role-based security.
+A production-ready service platform with authentication, role-based security, and a modern full-stack architecture.
 
-Real authentication.
+Tech: Next.js 14 • Supabase • PostgreSQL • TypeScript
 
-Real users.
+🌐 Live: https://gaadiguru.vercel.app/
 
-Real bugs.
+💻 Source: https://github.com/utkarshjha1407/mrwhite
 
 ---
 
 Tech Arsenal
 
 Languages
-○ Python
-○ C++
-○ TypeScript
-○ SQL
+
+- Python
+- C++
+- TypeScript
+- SQL
 
 Backend
-○ FastAPI
-○ Node.js
-○ PostgreSQL
-○ REST APIs
+
+- FastAPI
+- Node.js
+- PostgreSQL
+- REST APIs
 
 Frontend
-○ React
-○ Next.js
+
+- React
+- Next.js
 
 DevOps
-○ Linux
-○ Docker
-○ Git
+
+- Linux
+- Docker
+- Git
 
 ---
 
 Engineering Principles
 
-«If it needs twelve cloud services,
-maybe it needs fewer features.»
+«If it needs twelve cloud services, maybe it needs fewer features.»
 
-✔ Prefer open source
-
-✔ Prefer Linux
-
-✔ Measure before optimizing
-
-✔ Fail loudly
-
-✔ Read documentation
-
-✔ Delete code when possible
+- ✔ Prefer open source
+- ✔ Prefer Linux
+- ✔ Measure before optimizing
+- ✔ Fail loudly
+- ✔ Read documentation
+- ✔ Delete code when possible
 
 ---
 
@@ -142,34 +141,39 @@ Current Quest
 
 Things I Believe
 
-Good APIs feel obvious.
-
-Good logs save weekends.
-
-Simple systems scale further than clever ones.
-
-Every bug has a backstory.
+- Good APIs feel obvious.
+- Good logs save weekends.
+- Simple systems scale further than clever ones.
+- Every bug has a backstory.
 
 ---
 
 Fun Facts
 
-🐧 Uses Linux daily
-
-☕ Coffee has fixed exactly 0 production bugs.
-
-🐛 The last bug is always lying.
-
-🚀 Everything is temporary except technical debt.
+- 🐧 Uses Linux daily
+- ☕ Coffee has fixed exactly 0 production bugs.
+- 🐛 The last bug is always lying.
+- 🚀 Everything is temporary except technical debt.
 
 ---
 
-«"Make it work.
+«Make it work.
 
 Make it right.
 
-Make it fast."»
+Make it fast.»
 
 ---
 
-Open for backend roles, freelance work and interesting collaborations.
+Open for
+
+- Backend Engineering roles
+- Freelance work
+- Open-source collaborations
+- Interesting problems
+
+🌍 Portfolio: https://utkarshjha.dev
+
+💼 LinkedIn: https://linkedin.com/in/utkarsh-jha-372671291
+
+📫 Email: hello.utkarshjha@gmail.com
