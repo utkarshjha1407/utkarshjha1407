@@ -153,14 +153,6 @@ Fun Facts
 
 ---
 
-«Make it work.
-
-Make it right.
-
-Make it fast.»
-
----
-
 Open for
 
 - Backend Engineering roles
