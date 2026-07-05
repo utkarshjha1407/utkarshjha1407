@@ -8,11 +8,7 @@ while (alive) {
 }
 
 Backend engineer.
-
-Linux enjoyer.
-
 Builder of things that are intentionally boring in production.
-
 Currently trying to make computers slightly more useful than they were yesterday.
 
 ---
