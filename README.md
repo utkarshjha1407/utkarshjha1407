@@ -23,4 +23,5 @@ Python · C++ · TypeScript · FastAPI · React · Next.js · PostgreSQL · Dock
 
 Open to backend engineering roles, open source, and interesting problems.
 
-Portfolio: utkarshjha.dev • LinkedIn: linkedin.com/in/utkarsh-jha-372671291
+Portfolio: https://utkarshjha.dev/
+ LinkedIn: linkedin.com/in/utkarsh-jha-372671291
